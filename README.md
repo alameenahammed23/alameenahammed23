@@ -1,4 +1,4 @@
-# Al Ameen Ahammed Jaleel
+# Hi, I'm Al Ameen 👋
 
 1st year Cybersecurity student at Middlesex University.
 Passionate about using AI and Python to solve real world security problems.
@@ -37,12 +37,6 @@ something I built from scratch to solve a real problem.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alameenahammed23&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/al-ameen-ahammed-jaleel-42b13b391/
