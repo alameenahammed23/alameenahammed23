@@ -16,27 +16,35 @@ something I built from scratch to solve a real problem.
 
 ## 🛠 Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [AI Phishing Email Detector](https://github.com/alameenahammed23/AI_Phishing_Email_Detector) | ML web app that classifies emails as phishing or legitimate with a probability score and red flag analysis | Python, Scikit-learn, TF-IDF, Streamlit |
-| [SOC-AI](https://github.com/alameenahammed23/SOC-AI) | Upload any security incident file and chat with an AI analyst using a RAG pipeline | Python, Groq, ChromaDB, Streamlit |
-| [Cloud SOC Honeypot](https://github.com/alameenahammed23/cloud-soc-honeypot) | Azure honeypot that attracts real attackers and maps attacks using Microsoft Sentinel | Azure, Sentinel, KQL |
-| CW2 | Coursework project for Middlesex University module CST1510 | Python |
+| Project | Description | Skills | Tools |
+|---------|-------------|--------|-------|
+| [AI Phishing Email Detector](https://github.com/alameenahammed23/AI_Phishing_Email_Detector) | ML web app that classifies emails as phishing or legitimate. Uses TF-IDF to convert email text into numbers and Logistic Regression to output a probability score and detailed red flag analysis | Machine Learning, NLP, Text Classification, Threat Detection | Python, Scikit-learn, TF-IDF, Logistic Regression, Streamlit, Pickle |
+| [SOC-AI](https://github.com/alameenahammed23/SOC-AI) | AI powered SOC analyst tool. Upload any security incident file and chat with an AI that analyses threats, identifies attack patterns and suggests defensive actions using a RAG pipeline | Security Operations, AI, Threat Analysis, RAG Pipeline | Python, Groq, ChromaDB, Streamlit |
+| [Cloud SOC Honeypot](https://github.com/alameenahammed23/cloud-soc-honeypot) | Deployed a cloud based honeypot on Azure that attracts real world attackers. Captures live attack data and visualises it on an interactive threat map using Microsoft Sentinel | Cloud Security, SIEM, Threat Intelligence, Log Analysis | Azure, Microsoft Sentinel, KQL, Log Analytics |
 
 ---
 
 ## 💻 Skills
 
-**Languages** — Python
+**Languages**
+Python
 
-**Cybersecurity** — Threat Detection · Security Operations · Phishing Analysis · Honeypots · SIEM
+**Cybersecurity**
+Threat Detection · Penetration Testing · Security Operations · Phishing Analysis ·
+Honeypots · SIEM · Log Analysis · Threat Intelligence · Incident Response · Cloud Security
 
-**AI / ML** — Machine Learning · TF-IDF · Logistic Regression · RAG Pipeline
+**AI / ML**
+Machine Learning · Natural Language Processing · TF-IDF ·
+Logistic Regression · RAG Pipeline · Text Classification · Vector Databases
 
-**Tools** — Streamlit · Scikit-learn · ChromaDB · Groq · Azure · Microsoft Sentinel · Git
+**Cloud**
+Microsoft Azure · Azure Sentinel · Log Analytics · KQL
+
+**Tools & Libraries**
+Streamlit · Scikit-learn · ChromaDB · Groq · Pickle · Git · GitHub · VMware
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/al-ameen-ahammed-jaleel-42b13b391/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-ameen-ahammed-jaleel-42b13b391/)
