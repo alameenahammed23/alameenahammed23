@@ -1,6 +1,6 @@
 # Hi, I'm Al Ameen 👋
 
-1st year Cybersecurity student at Middlesex University.
+2nd year Cybersecurity student at Middlesex University.
 Passionate about using AI and Python to solve real world security problems.
 
 ---
